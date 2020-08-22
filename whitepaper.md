@@ -11,14 +11,14 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 
 ## Table Of Contents
 
-### Part.1 ( About lending in a broad sense. )
+### [Part.1 ( About lending in a broad sense. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part1--about-lending-in-a-broad-sense--1)
 
 1. Significance of "debt" in modern society.
 2. Differences in how to view debt.
 3. B2C lending market.
 4. P2P market liquidity approach.
 
-### Part.2 ( Risk management. )
+### [Part.2 ( Risk management. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part2--risk-management--1)
 
 1. P2P weakness, credit management concept model.
 2. Privacy in open network.
@@ -31,7 +31,7 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 6. Proposal to deal with collateral value default risk due to CFC decline after contract.
 7. The principal is limited to general-purpose cryptocurrencies.
 
-### Part.3 ( Operational risk and technical solutions.）
+### [Part.3 ( Operational risk and technical solutions.）](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part3--operational-risk-and-technical-solutions-)
 
 1. Credit and trust.
 2. Consideration and necessity of information retention.
@@ -43,7 +43,7 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 8. Requirement for electronic signatures that flatten backup phrases.
 9. Validator decentralization and incentives.
 
-### Part.4 ( Various exemptions and token details. )
+### [Part.4 ( Various exemptions and token details. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part4--various-exemptions-and-token-details--1)
 
 1. Interpretation of responsibility for providing fields for illegal work such as money laundering.
 2. Disclaimer of cracking in Dapps.
