@@ -13,44 +13,44 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 
 ### [Part.1 ( About lending in a broad sense. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part1--about-lending-in-a-broad-sense--1)
 
-1. Significance of "debt" in modern society.
-2. Differences in how to view debt.
-3. B2C lending market.
-4. P2P market liquidity approach.
+1. [Significance of "debt" in modern society.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-significance-of-debt-in-modern-society)
+2. [Differences in how to view debt.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-differences-in-how-to-view-debt)
+3. [B2C lending market.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-b2c-lending-market)
+4. [P2P market liquidity approach.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-p2p-market-liquidity-approach)
 
 ### [Part.2 ( Risk management. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part2--risk-management--1)
 
-1. P2P weakness, credit management concept model.
-2. Privacy in open network.
-3. Borrower account level and privacy protection.
-4. Proposal of risk cover for lenders.
-5. Contract design with ERC721.
+1. [P2P weakness, credit management concept model.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-p2p-weakness-credit-management-concept-model)
+2. [Privacy in open network.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-privacy-in-open-network)
+3. [Borrower account level and privacy protection.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-borrower-account-level-and-privacy-protection)
+4. [Proposal of risk cover for lenders.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-proposal-of-risk-cover-for-lenders)
+5. [Contract design with ERC721.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#5-contract-design-with-erc721)
     - A Maturity.
     - Interest rate  ( Pattern SS to ) .
     - Contract after maturity.
-6. Proposal to deal with collateral value default risk due to CFC decline after contract.
-7. The principal is limited to general-purpose cryptocurrencies.
+6. [Proposal to deal with collateral value default risk due to CFC decline after contract.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#6-proposal-to-deal-with-collateral-value-default-risk-due-to-cfc-decline-after-contract)
+7. [The principal is limited to general-purpose cryptocurrencies.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#7-the-principal-is-limited-to-general-purpose-cryptocurrencies)
 
 ### [Part.3 ( Operational risk and technical solutions.）](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part3--operational-risk-and-technical-solutions-)
 
-1. Credit and trust.
-2. Consideration and necessity of information retention.
-3. DLT trustless design.
-4. Definition and advantages of decentralization.
-5. Private key escrow system.
-6. Independent proof of data storage and consensus node.
-7. Time lock script with side chain.
-8. Requirement for electronic signatures that flatten backup phrases.
-9. Validator decentralization and incentives.
+1. [Credit and trust.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-credit-and-trust)
+2. [Consideration and necessity of information retention.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-consideration-and-necessity-of-information-retention)
+3. [DLT trustless design.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-dlt-trustless-design)
+4. [Definition and advantages of decentralization.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-definition-and-advantages-of-decentralization)
+5. [Private key escrow system.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#5-private-key-escrow-system)
+6. [Independent proof of data storage and consensus node.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#6-independent-proof-of-data-storage-and-consensus-node)
+7. [Time lock script with side chain.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#7-time-lock-script-with-side-chain)
+8. [Requirement for electronic signatures that flatten backup phrases.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#8-requirement-for-electronic-signatures-that-flatten-backup-phrases)
+9. [Validator decentralization and incentives.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#9-validator-decentralization-and-incentives)
 
 ### [Part.4 ( Various exemptions and token details. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part4--various-exemptions-and-token-details--1)
 
-1. Interpretation of responsibility for providing fields for illegal work such as money laundering.
-2. Disclaimer of cracking in Dapps.
-3. Legal disclaimer for collection between parties.
-4. By DEX regulation items.
-5. Token information.
-6. Roadmap.
+1. [Interpretation of responsibility for providing fields for illegal work such as money laundering.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-interpretation-of-responsibility-for-providing-fields-for-illegal-work-such-as-money-laundering)
+2. [Disclaimer of cracking in Dapps.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-disclaimer-of-cracking-in-dapps)
+3. [Legal disclaimer for collection between parties.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-legal-disclaimer-for-collection-between-parties)
+4. [By DEX regulation items.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-by-dex-regulation-items)
+5. [Token information.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#5-token-information)
+6. [Roadmap.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#6-roadmap)
 
 ## Part.1 ( About lending in a broad sense. )
 
