@@ -53,6 +53,11 @@ With capitalism accelerating around the world, this raises one question. Crowd F
     - Regulations on DEX and DeFi.
 3. [Token information.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-token-information)
 4. [Roadmap.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-roadmap)
+    - 2018
+    - 2019
+    - 2020
+    - 2021
+    - After 2022
 
 ## Part.1 ( About lending in a broad sense. )
 
@@ -441,3 +446,35 @@ However, in a decentralized architecture, while storing transaction data and app
 - **Initial rate :** CFC = 0.3 USD
 
 ### 4. Roadmap.
+
+**2018**
+
+- Started the concept of DeFi.
+- Meeting members in business and technology departments.
+- Investment incentive design.
+- Legal check.
+
+**2019**
+
+- Started test net development.
+- Started HP development.
+- White paper release.
+- Started design of distributed main net.
+
+**2020**
+
+- Token supply amount 200,000,000 CFC.
+- Supply rate 0.03 USD start.
+- CFC Custody started on test net.
+
+**2021**
+
+- Token supply amount 500,000,000 CFC target.
+- Target rate 0.5 USD.
+- Secure liquidity by handling CFC on the exchange.
+
+**After 2022**
+
+- Autonomous decentralized service operation.
+- Return to investors, dissolution.
+- Founder, leaving the development team.
