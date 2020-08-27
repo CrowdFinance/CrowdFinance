@@ -43,14 +43,16 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 8. [Requirement for electronic signatures that flatten backup phrases.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#8-requirement-for-electronic-signatures-that-flatten-backup-phrases)
 9. [Validator decentralization and incentives.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#9-validator-decentralization-and-incentives)
 
-### [Part.4 ( Various exemptions and token details. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part4--various-exemptions-and-token-details--1)
+### Part.4 ( Various exemptions, token design. )
 
-1. [Interpretation of responsibility for providing fields for illegal work such as money laundering.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-interpretation-of-responsibility-for-providing-fields-for-illegal-work-such-as-money-laundering)
-2. [Disclaimer of cracking in Dapps.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-disclaimer-of-cracking-in-dapps)
-3. [Legal disclaimer for collection between parties.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-legal-disclaimer-for-collection-between-parties)
-4. [By DEX regulation items.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-by-dex-regulation-items)
-5. [Token information.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#5-token-information)
-6. [Roadmap.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#6-roadmap)
+1. Disclaimer.
+    - Disclaimer of cracking in Dapps.
+    - Legal disclaimer for collection between parties.
+2. About DEX and DeFi.
+    - About DeFi.
+    - Regulations on DEX and DeFi.
+3. Token information.
+4. Roadmap.
 
 ## Part.1 ( About lending in a broad sense. )
 
@@ -386,48 +388,56 @@ The block must also be approved by a third party when compiling the backup to ma
 
 Thus, we have described the options for certifying C2C credibility among individuals and their technical solutions. The concept of trustless that underpins our decentralization. In the next sector, we will comprehensively explain the legal position of DEX and the position of exemption.
 
-## Part.4 ( Various exemptions and token details. )
+## Part.4 ( Various exemptions, token design. )
 
-### 1. Interpretation of responsibility for providing fields for illegal work such as money laundering.
+### 1. Disclaimer.
 
-### 2. Disclaimer of cracking in Dapps.
+**Disclaimer of cracking in Dapps.**
 
 As mentioned above, regarding privacy, the management does not keep personal information. Regarding asset information, we are fully committed to providing only the platform by participating from the wallet of each client who has a private key.
 
-In order to prevent unauthorized access, loss, damage, falsification, leakage, etc. of customer's personal information, we use the blockchain to maintain the security system and strictly manage personal information.
+In order to prevent unauthorized access, loss, damage, falsification, leakage, etc. of customer's personal information, we use blockchain to maintain the security system and strictly manage personal information.
 
 Therefore, we shall not be liable for any interruption, suspension, suspension or abolition of various services on this decentralized website, and for any damages to customers or third parties caused by this website.
 
-Legal liability for collection between parties
+**Legal disclaimer for collection between parties.**
 
-We take thorough measures for security using block chains to ensure the accuracy and safety of personal information. See Chapter 4 of this paper for an overview.
+To ensure the accuracy and safety of personal information, we take all possible measures for security using blockchain. See Chapter 4 of this paper for an overview.
 
-Among them, we will not intervene regarding the recovery of capital between users in order to maintain the free market, and we shall not be liable for legal disputes in that dispute.
+Among them, we will not intervene with regard to the recovery of capital between users in order to maintain the free market, and we shall not be liable for the dispute.
 
 We do not take the position of witnesses in the contract data, as these are loan contracts made in a decentralized system. In the case of a court case, the records of transactions in this block may also be used as proof, depending on the national or regional law between the parties. Therefore, we will provide a place for matching, provide risk management, and disclaim all liability for subsequent collection.
 
-In addition, we are not liable for any consequential damages, incidental damages, indirect damages such as lost profits, etc. of the contractor and the third party that occurred in connection with this service, regardless of whether they are foreseen or predictable We do not owe.
+In addition, we are not liable for any consequential damages, incidental damages, indirect damages such as lost profits, etc. of the contractor and a third party that occurred in connection with this service, regardless of their foreseeable or predictable We do not owe.
 
-### 3. Legal disclaimer for collection between parties.
-
-### 4. By DEX regulation items.
+### 2. About DEX and DeFi.
 
 **About DeFi**
 
 This form was part of a decentralized application and was broadly called DEX, but in finance DeFi can be defined.
 
-In the narrow sense, DeFi is a financial mechanism that eliminates the need for centralization by using smart contracts, as opposed to the conventional centralized financial structure, and it is expected that cheap/convenient transactions will be realized.
+In the narrow sense, DeFi is a financial mechanism that eliminates the need for centralized control by utilizing smart contracts, as opposed to the conventional centralized financial mechanism, and it is expected to realize cheap/convenient transactions.
 
 Among them, lending is regarded as the most promising field from the viewpoint of publicity, safety and transparency of blockchain. Lending services at DeFi are expected to provide services at lower credit costs.
 
 **Regulations on DEX and DeFi.**
 
-With a decentralized architecture, exchanges are defined outside the scope of local or international regulators. In the case of a centralized structure, complying with regulations means that the services of the exchange can be completely (or partially) blocked. In that case, the service may be restricted depending on the place of residence of the user.
+With a decentralized architecture, exchanges are defined outside the scope of local or international regulators. In the case of a centralized structure, complying with regulations means that the services of an exchange can be completely (or partially) blocked. In that case, the service may be restricted depending on the place of residence of the user.
 
-However, in a decentralized architecture, while storing transaction data and applications for the purchase or sale of users' assets, on Mainnet the private keys are kept by the users themselves.
+However, in a decentralized architecture, while storing transaction data and applications for buying or selling users' assets, on Mainnet the private key is kept by the user himself. Therefore, our P2P service does not take the position of a witness.
 
-Therefore, our P2P service does not take the position of a witness.
+### 3. Token information.
 
-### 5. Token information.
+- **Token name :** Crowd Finance Chain Token
+- **Contract :** 0xD1c2b75A500f42f32FF9D35dD6A007F71615a330
+- **Symbol :** CFC
+- **Decimals :** 18
+- **Standard :** ERC20
+- **Total amount issued :** 1,000,000,000 CFC
+- **Etherscan :** [https://etherscan.io/token/0xD1c2b75A500f42f32FF9D35dD6A007F71615a330](https://etherscan.io/token/0xD1c2b75A500f42f32FF9D35dD6A007F71615a330)
+- **HP :** [https://www.crowdfinance.technology/](https://www.crowdfinance.technology/)
+- **Service :** Crowd Finance
+- **Supply schedule :** Described on roadmap
+- **Initial rate :** CFC = 0.3 USD
 
-### 6. Roadmap.
+### 4. Roadmap.
