@@ -43,16 +43,16 @@ With capitalism accelerating around the world, this raises one question. Crowd F
 8. [Requirement for electronic signatures that flatten backup phrases.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#8-requirement-for-electronic-signatures-that-flatten-backup-phrases)
 9. [Validator decentralization and incentives.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#9-validator-decentralization-and-incentives)
 
-### Part.4 ( Various exemptions, token design. )
+### [Part.4 ( Various exemptions, token design. )](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#part4--various-exemptions-token-design--1)
 
-1. Disclaimer.
+1. [Disclaimer.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#1-disclaimer)
     - Disclaimer of cracking in Dapps.
     - Legal disclaimer for collection between parties.
-2. About DEX and DeFi.
+2. [About DEX and DeFi.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#2-about-dex-and-defi)
     - About DeFi.
     - Regulations on DEX and DeFi.
-3. Token information.
-4. Roadmap.
+3. [Token information.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#3-token-information)
+4. [Roadmap.](https://github.com/CrowdFinance/WhitePaper/blob/master/whitepaper.md#4-roadmap)
 
 ## Part.1 ( About lending in a broad sense. )
 
