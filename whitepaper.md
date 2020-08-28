@@ -168,7 +168,7 @@ Crowd Finance also provides AML, a solution to prevent indirect cooperation agai
 
 The balance of criminals who are deeply involved in the pyramid scheme etc. is frozen by the police of each country, and the address is also made public.
 
-So Navel Credit introduces a risk score calculation system for all participants' addresses. This risk calculation is determined by multiple factors such as mixing and involvement with exchange addresses. Avoid using the specific calculation method because it will lead to avoiding spot-like problems.
+So Crowd Finance introduces a risk score calculation system for all participants' addresses. This risk calculation is determined by multiple factors such as mixing and involvement with exchange addresses. Avoid using the specific calculation method because it will lead to avoiding spot-like problems.
 
 However, with current technology, it is possible to calculate an objective risk score from a decentralized Bitcoin transaction. However, this is extremely quantitative, and because it is judged only from transactions, it is a technology made possible because it is a blockchain.
 
@@ -190,7 +190,7 @@ With Crowd Finance, you can make a 5-year bond, or you can use lending on a mont
 
 Furthermore, through two different contracts, It is also possible to adjust the interest rate in multiples of 2,3,4,5,6,10.
 
-Also, when the maturity is reached, a considerable amount of LND tokens will be automatically withdrawn, so the transfer of funds between the parties will be one way. As a result, the borrower cannot substantially reduce the interest rate by prepayment, and the lender can get the expected profit.
+Also, when the maturity is reached, a considerable amount of CFC tokens will be automatically withdrawn, so the transfer of funds between the parties will be one way. As a result, the borrower cannot substantially reduce the interest rate by prepayment, and the lender can get the expected profit.
 
 Please refer to the next chapter for how to deal with the default risk of collateral value when CFC declines.
 
@@ -231,7 +231,7 @@ There is also the aim of preventing runaway lending by fixing a part of maturity
 
 ### 6. Proposal to deal with collateral value default risk due to CFC decline after contract.
 
-CFC rates are always in flux and are determined by supply and demand. The problem in this case is when you contract the LND that serves as collateral at the time of contract. There is a possibility that the LND may not play the role of collateral value, for example, if the contract has a maturity of one year.
+CFC rates are always in flux and are determined by supply and demand. The problem in this case is when you contract the CFC that serves as collateral at the time of contract. There is a possibility that the CFC may not play the role of collateral value, for example, if the contract has a maturity of one year.
 
 However, it is possible to hedge trade the fall in the market. If you are a lender and you have 90% of the value of the CFC guaranteed as collateral and you lose the interest collateral value. In that case, you can take a risk hedge when borrowing at the rate of Pattern SS while lending at the rate of Pattern A.
 
@@ -443,7 +443,7 @@ However, in a decentralized architecture, while storing transaction data and app
 - **HP :** [https://www.crowdfinance.technology/](https://www.crowdfinance.technology/)
 - **Service :** Crowd Finance
 - **Supply schedule :** Described on roadmap
-- **Initial rate :** CFC = 0.3 USD
+- **Initial rate :** CFC = 0.03 USD
 
 ### 4. Roadmap.
 
